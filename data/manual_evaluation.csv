@@ -1,0 +1,51 @@
+query,method,rank,QCode,title,tags,link,relevant
+Find the shortest path between vertices in a weighted graph,TF-IDF,1,QTREE,Queries on tree again!,"['simple-math', 'may13', 'tuananh93', 'heavy-light', 'segment-tree', 'hard']",/problems/QTREE,0
+Find the shortest path between vertices in a weighted graph,TF-IDF,2,RG_01,Maximal Score Path,"['re_01', 'rahulakaneo', 'easy', 'june11']",/problems/RG_01,0
+Find the shortest path between vertices in a weighted graph,TF-IDF,3,GRAPHCT,Graph Counting,"['hard', 'syco', 'june10']",/problems/GRAPHCT,0
+Find the shortest path between vertices in a weighted graph,TF-IDF,4,TACTQUER,Shortest path queries,"['tuananh93', 'graph', 'dp', 'hard', 'cook74']",/problems/TACTQUER,1
+Find the shortest path between vertices in a weighted graph,TF-IDF,5,DGCD,Dynamic GCD,"['yellow_agony', 'july12', 'heavy-light', 'hard', 'number-theory']",/problems/DGCD,0
+Find the shortest path between vertices in a weighted graph,Semantic,1,SPSHORT,Special Shortest Walk,"['cook55', 'dijkstra', 'paths-in-graph', 'graph', 'medium-hard', 'devuy11', 'shortest-path']",/problems/SPSHORT,1
+Find the shortest path between vertices in a weighted graph,Semantic,2,QTREE,Queries on tree again!,"['simple-math', 'may13', 'tuananh93', 'heavy-light', 'segment-tree', 'hard']",/problems/QTREE,0
+Find the shortest path between vertices in a weighted graph,Semantic,3,RG_01,Maximal Score Path,"['re_01', 'rahulakaneo', 'easy', 'june11']",/problems/RG_01,0
+Find the shortest path between vertices in a weighted graph,Semantic,4,AVGSHORT,Short in Average,"['xcwgf666', 'easy-medium', 'graph', 'bellman-ford', 'ltime39', 'shortest-path']",/problems/AVGSHORT,1
+Find the shortest path between vertices in a weighted graph,Semantic,5,PAIRCLST,Two Closest,"['dijkstra', 'xcwgf666', 'medium', 'floyd-warshall', 'ltime34']",/problems/PAIRCLST,1
+Sort an array of integers efficiently,TF-IDF,1,SEABUB,Sereja and Bubble Sort,"['sereja', 'sept14', 'dp', 'medium', 'expectation']",/problems/SEABUB,1
+Sort an array of integers efficiently,TF-IDF,2,SEASOR,Sereja and Sorting,"['sereja', 'ad-hoc', 'sorting', 'challenge', 'july13']",/problems/SEASOR,1
+Sort an array of integers efficiently,TF-IDF,3,SEASORT2,Sereja and Sorting 2,"['sereja', 'challenge', 'march14', 'greedy', 'heuristic', 'test-gen-plans']",/problems/SEASORT2,1
+Sort an array of integers efficiently,TF-IDF,4,TSORT,Turbo Sort,['admin'],/problems/TSORT,1
+Sort an array of integers efficiently,TF-IDF,5,PARALLEL,Parallel Computing,"['thocevar', 'medium', 'april12']",/problems/PARALLEL,0
+Sort an array of integers efficiently,Semantic,1,SEASOR,Sereja and Sorting,"['sereja', 'ad-hoc', 'sorting', 'challenge', 'july13']",/problems/SEASOR,1
+Sort an array of integers efficiently,Semantic,2,TSORT,Turbo Sort,['admin'],/problems/TSORT,1
+Sort an array of integers efficiently,Semantic,3,SEASORT2,Sereja and Sorting 2,"['sereja', 'challenge', 'march14', 'greedy', 'heuristic', 'test-gen-plans']",/problems/SEASORT2,1
+Sort an array of integers efficiently,Semantic,4,SEABUB,Sereja and Bubble Sort,"['sereja', 'sept14', 'dp', 'medium', 'expectation']",/problems/SEABUB,1
+Sort an array of integers efficiently,Semantic,5,SORTING,Sorting,"['xcwgf666', 'easy-medium', 'segment-tree', 'persistence', 'ltime03']",/problems/SORTING,1
+Use dynamic programming to maximize profit,TF-IDF,1,CHEFSTON,Chef and Stones,"['cakewalk', 'jan15', 'berezin', 'basic-math']",/problems/CHEFSTON,0
+Use dynamic programming to maximize profit,TF-IDF,2,MONTRANS,Money Transformation,"['anton_lunyov', 'cook08', 'easy']",/problems/MONTRANS,0
+Use dynamic programming to maximize profit,TF-IDF,3,RESTEXP,Restaurant Expansion,"['fushar', 'jan11', 'medium']",/problems/RESTEXP,0
+Use dynamic programming to maximize profit,TF-IDF,4,KNPSK,Knapsack Problem,"['kostya_by', 'sorting', 'easy-medium', 'greedy', 'cook47']",/problems/KNPSK,1
+Use dynamic programming to maximize profit,TF-IDF,5,COALSCAM,Coal Scam,"['yellow_agony', 'kruskal', 'cook26', 'easy']",/problems/COALSCAM,0
+Use dynamic programming to maximize profit,Semantic,1,MENU,Menu,['admin'],/problems/MENU,0
+Use dynamic programming to maximize profit,Semantic,2,FLOW009,Total Expenses,['vicky002'],/problems/FLOW009,0
+Use dynamic programming to maximize profit,Semantic,3,OVENTIME,Renting Spare Oven Time,"['friggstad', 'hard', 'nov10']",/problems/OVENTIME,0
+Use dynamic programming to maximize profit,Semantic,4,KNPSK,Knapsack Problem,"['kostya_by', 'sorting', 'easy-medium', 'greedy', 'cook47']",/problems/KNPSK,1
+Use dynamic programming to maximize profit,Semantic,5,RESTEXP,Restaurant Expansion,"['fushar', 'jan11', 'medium']",/problems/RESTEXP,0
+Find the lowest common ancestor of two nodes in a tree,TF-IDF,1,TALCA,Lowest Common Ancestor,"['tuananh93', 'lca', 'ltime14', 'medium-hard', 'trees']",/problems/TALCA,1
+Find the lowest common ancestor of two nodes in a tree,TF-IDF,2,TROOT,Roots of a Tree,"['dfs', 'xcwgf666', 'easy-medium', 'segment-tree', 'ltime12']",/problems/TROOT,0
+Find the lowest common ancestor of two nodes in a tree,TF-IDF,3,TREEROOT,Root of the Problem,"['simple-math', 'cook29', 'pieguy', 'simple-easy']",/problems/TREEROOT,0
+Find the lowest common ancestor of two nodes in a tree,TF-IDF,4,QTREE6,Query on a tree VI,"['xiaodao', 'heavy-light', 'link-cut-tree', 'hard', 'dec13']",/problems/QTREE6,0
+Find the lowest common ancestor of two nodes in a tree,TF-IDF,5,LABEL,Tree Labelling,"['ltime35', 'dynamic-prog', 'memoization', 'ma5termind', 'implementation', 'medium']",/problems/LABEL,0
+Find the lowest common ancestor of two nodes in a tree,Semantic,1,TALCA,Lowest Common Ancestor,"['tuananh93', 'lca', 'ltime14', 'medium-hard', 'trees']",/problems/TALCA,1
+Find the lowest common ancestor of two nodes in a tree,Semantic,2,TROOT,Roots of a Tree,"['dfs', 'xcwgf666', 'easy-medium', 'segment-tree', 'ltime12']",/problems/TROOT,0
+Find the lowest common ancestor of two nodes in a tree,Semantic,3,SEATR,Sereja and Tree,"['mathematics', 'sereja', 'dynamic-prog', 'memoization', 'trees', 'hard', 'cook64']",/problems/SEATR,0
+Find the lowest common ancestor of two nodes in a tree,Semantic,4,SEATR2,Sereja and Tree 2,"['sereja', 'dynamic-prog', 'trees', 'medium', 'maths', 'cook64']",/problems/SEATR2,0
+Find the lowest common ancestor of two nodes in a tree,Semantic,5,CLOSEFAR,So Close Yet So Far,"['animesh_f', 'mo-algorithm', 'ltime38', 'data-structure', 'lunchtime', 'optimization']",/problems/CLOSEFAR,0
+Count divisors of a number,TF-IDF,1,DIVNODIV,Divisors number divisibility,"['anton_lunyov', 'hard', 'cook06']",/problems/DIVNODIV,1
+Count divisors of a number,TF-IDF,2,ODDDIV,Odd Divisors,"['cook69', 'kostya_by', 'divisors', 'simple', 'sum']",/problems/ODDDIV,1
+Count divisors of a number,TF-IDF,3,GOODNUMB,Good Numbers,['admin2'],/problems/GOODNUMB,0
+Count divisors of a number,TF-IDF,4,BBSYSTEM,Box and Ball System,"['medium', 'feb12', 'laycurse']",/problems/BBSYSTEM,0
+Count divisors of a number,TF-IDF,5,DIVISORS,Something About Divisors,"['anton_lunyov', 'hard', 'aug11']",/problems/DIVISORS,1
+Count divisors of a number,Semantic,1,DIVISORS,Something About Divisors,"['anton_lunyov', 'hard', 'aug11']",/problems/DIVISORS,1
+Count divisors of a number,Semantic,2,DIVNODIV,Divisors number divisibility,"['anton_lunyov', 'hard', 'cook06']",/problems/DIVNODIV,1
+Count divisors of a number,Semantic,3,GOODNUMB,Good Numbers,['admin2'],/problems/GOODNUMB,0
+Count divisors of a number,Semantic,4,LEDIV,Little Elephant and Divisors,"['simple', 'cook28', 'simple-math', 'witua']",/problems/LEDIV,1
+Count divisors of a number,Semantic,5,XETF,Euler Totient Function Extended,"['ltime23', 'xcwgf666', 'inclusn-exclusn', 'easy-medium']",/problems/XETF,0
